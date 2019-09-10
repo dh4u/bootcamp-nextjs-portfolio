@@ -80,7 +80,10 @@ let Projects = () => {
 														<i class="fab fa-github"></i>
 													</a>`
 					{item.demo !== ""
-					?(detailRowContent +=			`<a href=${item.demo} alt="Demo it" target="_blank">
+					?(detailRowContent +=			`
+													&nbsp;
+													&nbsp;
+													<a href=${item.demo} alt="Demo it" target="_blank">
 														<i class="fas fa-external-link-alt"></i>
 													</a>`)
 					:("")
@@ -92,11 +95,6 @@ let Projects = () => {
 						technologyRowContent += `<div class="col-4">
 													<h6>Technology / Concepts</h6>
 													<p>${item.technology}</p>
-													<p>
-														<a href=${item.GitHub} alt="GitHub repository" target="_blank">
-															<i class="fab fa-github"></i>
-														</a>
-													</p>
 												</div>`
 
 						if (index % 3 === 2 || index === data.portfolio.projects.length - 1){
