@@ -23,7 +23,7 @@
         "title": "Guitarist Center v2",
         "category": "A capstone project for the Web Development Essentials section of the Full Stack Web Developer bootcamp I completed.",
         "image": "../static/images/portfolio/thumbnails/bootcamp-guitar-store.v2.thumbnail.png",
-        "demo": "/work/GuitaristCenter/index.html",
+        "demo": "../static/work/GuitaristCenter/index.html",
         "GitHub": "https://github.com/dh4u/bootcamp-guitar-store/tree/v2",
         "description": "The assignment for this project was to make an online store with a functional shopping cart and a checkout process that offers the ability to use a discount code.",
         "technology": "sessionStorage for shopping cart persistence, Bootstrap 4, HTML, and JavaScript."
