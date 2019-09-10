@@ -1,0 +1,123 @@
+{
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bootcamp - Cars v1",
+        "category": "A project for the Web Development Essentials section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-cars.v1.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-cars/tree/v1",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to designed to teach object-oriented programming.<br /><br />My solution is a simple page that shows various car models and shows the description of the car when clicked.",
+        "technology": "Bootstrap 4, HTML, and JavaScript."
+      },
+      {
+        "title": "Bootcamp - Restaurant POS",
+        "category": "A project for the Web Development Essentials section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-restaurant-POS.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-restaurant-POS",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to create an ordering system that would be used by wait staff to submit orders to the bar and kitchen.",
+        "technology": "Bootstrap 4, HTML, and JavaScript."
+      },
+      {
+        "title": "Bootcamp - Guitarist Center v2",
+        "category": "A capstone project for the Web Development Essentials section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-guitar-store.v2.png",
+        "demo": "/work/GuitaristCenter/index.html",
+        "GitHub": "https://github.com/dh4u/bootcamp-guitar-store/tree/v2",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to make an online store with a functional shopping cart and a checkout process that offers the ability to use a discount code.",
+        "technology": "sessionStorage for shopping cart persistence, Bootstrap 4, HTML, and JavaScript."
+      },
+      {
+        "title": "Bootcamp - React Resume",
+        "category": "A project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-react-resume.jpg",
+        "demo": "https://dh4u-bootcamp-react-resume.herokuapp.com/",
+        "GitHub": "https://github.com/dh4u/bootcamp-react-resume",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to make an online resume using ReactJS. <br /><br />I created <a href='https://dh4u-bootcamp-react-resume.herokuapp.com/'>https://dh4u-bootcamp-react-resume.herokuapp.com/</a> by forking Tim Baker's ReactJs template - https://github.com/tbakerx/react-resume-template and updating the content.",
+        "technology": "ReactJS"
+      },
+      {
+        "title": "Bootcamp - Guitarist Center v3",
+        "category": "A project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-guitar-store.v2.png",
+        "demo": "https://dh4u-bootcamp-guitar-shop-v3.herokuapp.com",
+        "GitHub": "https://github.com/dh4u/bootcamp-guitar-store/tree/v3",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was designed to teach ReactJS events.",
+        "technology": "localStorage for shopping cart persistence, ReactJS, React Bootstrap, jQuery, and jQueryUI"
+      },
+      {
+        "title": "Bootcamp - Calculator",
+        "category": "A project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-calculator.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-calculator",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was designed to teach ReactJS events by making a calculator.",
+        "technology": "ReactJS and React Bootstrap"
+      },
+      {
+        "title": "Bootcamp - To-do List v1",
+        "category": "A project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-to-do.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-to-do/tree/v2",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was designed to teach ReactJS events by making a to-do list that allows the user to add / delete items from a list and has admin users that can see other users' lists. ",
+        "technology": "ReactJS and React Bootstrap"
+      },
+      {
+        "title": "Bootcamp - Currency Converter / Three Card Monte",
+        "category": "A project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-currency-converter-and-monte-game.2.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-currency-converter-and-monte-game",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to create an app that allows the user to choose between two functions – a currency converter and a Three-card Monte game.<br /><br />The currency converter fetches the current exchange rates from https://apilayer.com/ in order to convert currency between US Dollars, Euros, Pounds Sterling, and South African Rands.<br /><br />The Three-Card Monte game is a simple game of chance that gives feedback about the winning or losing streak.",
+        "technology": "ReactJS and React Bootstrap"
+      },
+      {
+        "title": "Bootcamp - Connect Four",
+        "category": "A capstone project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-connect-four.png",
+        "demo": "https://dh4u-bootcamp-connect-four.herokuapp.com",
+        "GitHub": "https://github.com/dh4u/bootcamp-connect-four",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to create a simple game (other than Tic-Tac-Toe) using React.",
+        "technology": "ReactJS and React Bootstrap"
+      },
+      {
+        "title": "Bootcamp - Current Weather",
+        "category": "A project for the React / Express section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-current-weather.3.png",
+        "demo": "https://dh4u-bootcamp-current-weather.herokuapp.com",
+        "GitHub": "https://github.com/dh4u/bootcamp-current-weather",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to create a ReactJS app that will display the weather in a city of the user’s choice. The user should be able to enter or select the name of the city that they would like to see the weather for. The app should get the weather by fetching the OpenWeatherMap API: https://openweathermap.org/current.",
+        "technology": "ReactJS and React Bootstrap"
+      },
+      {
+        "title": "Bootcamp - Cars v2",
+        "category": "A project for the Full Stack section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-cars.v2.1.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-cars",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to create a full stack web application (create the back-end of the application using Express and the front-end using React). The data is stored in a MongoDB that stores information about cars in a collection called cars.",
+        "technology": "ExpressJS, MongoDB (Mongoose), NodeJS, ReactJS, and React Bootstrap"
+      },
+      {
+        "title": "Bootcamp - To-do List v2 (with Login)",
+        "category": "A project for the Full Stack section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-to-do.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-to-do/tree/v2",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to build upon the previous to-do application by adding a login and writing the to-do items to MongoDB.",
+        "technology": "ExpressJS, MongoDB (Mongoose), NodeJS, ReactJS, React Bootstrap, and React Simple Storage"
+      },
+      {
+        "title": "Bootcamp - Using an API",
+        "category": "A project for the Full Stack section of the Full Stack Web Developer bootcamp I completed.",
+        "image": "../static/images/portfolio/bootcamp-star-wars.1.png",
+        "demo": "",
+        "GitHub": "https://github.com/dh4u/bootcamp-star-wars",
+        "description": "This project was for the Full Stack Developer bootcamp I did. The assignment was to use NextJS to build a dynamic website that uses data retrieved from an API.",
+        "technology": ""
+      }
+    ]
+  }
+}

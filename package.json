@@ -1,0 +1,40 @@
+{
+  "name": "scott-harvey-portfolio",
+  "version": "1.0.0",
+  "description": "This is a developer profile for scott harvey. if you like what you see please contact me at scott.harvey@outlook.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "\"Scott",
+    "Harvey\"",
+    "\"Full",
+    "Stack",
+    "Developer\"",
+    "\"MERN",
+    "Stack\"",
+    "\"ColdFusion",
+    "Developer\"",
+    "\"Washington",
+    "DC\""
+  ],
+  "author": "Scott Harvey donzail@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "core-js": "^2.6.9",
+    "linkifyjs": "^2.1.8",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-dom": "^16.9.0",
+    "react-ga": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
